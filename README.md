@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora Java Full Stack Jr.</h3>
 
 <p align="center">
-  Pasante en Ciencias de la Informática (IPN) construyendo soluciones de software con bases sólidas en Java.
+  Pasante en Ciencias de la Informática (IPN) construyendo soluciones de software con conocimientos en Java.
 </p>
 
 <p align="center">
